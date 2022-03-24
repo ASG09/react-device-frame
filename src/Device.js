@@ -26,6 +26,9 @@ import './scss/Device.scss';
 // grab the styles from node_modules/Devices.css
 import 'Devices.css/assets/devices.min.css';
 
+// grab customZoom css
+import './css/customZoom.css';
+
 /**
  * used by normalize to squash values in arrays and objects to lowercase
  * @param {object|array} set an array or single level deep hash

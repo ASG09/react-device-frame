@@ -6,7 +6,7 @@ export default class Iphonex extends Component {
   
   render(){
     return (
-      <div className={`marvel-device iphone-x ${this.props.orientation}`}>
+      <div className={`marvel-device iphone-x ${this.props.orientation} scale--03`}>
         <div className="notch">
           <div className="camera" />
           <div className="speaker" />
